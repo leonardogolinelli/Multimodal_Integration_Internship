@@ -1,2 +1,2 @@
 # Multimodal_Integration
-Sample code created from the internship at Theis Lab (all rights reserved)
+Example of code created by me for the internship at Theis Lab. All the code is Theis Lab's property.
